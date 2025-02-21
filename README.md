@@ -20,5 +20,6 @@
 
 - **`Resultados.csv`** - Tabela contendo as especificações e métricas de qualidade dos testes realizados.  
 
+---
 
 **E-mail para contato:** amauri_cj@hotmail.com
