@@ -23,3 +23,4 @@
 ---
 
 **E-mail para contato:** amauri_cj@hotmail.com
+**Link para repositório do Drive com imagens e gráficos dos testes citados no trabalho:** https://drive.google.com/drive/folders/1_Aca_r1FkZsWIF1XzwLhl5AJUbI5pC2v?usp=sharing
